@@ -1,5 +1,4 @@
-# Gabriel Montini
-## About Me
+# About Me
 
 > * 24 y/o
 > * FullStack Developer
