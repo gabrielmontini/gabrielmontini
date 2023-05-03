@@ -3,6 +3,7 @@
 > * 24 y/o
 > * FullStack Developer
 
+
 ## Experiences
 
 > - 📫 Bachelor in Information Systems at PUCPR
@@ -12,6 +13,7 @@
 > - 🚀 Went to the Nasa Space Apps Challenge 2019!
 > - 💬 I believe that I work well both on my own and also with all kind of groups, I'm really open to receive and give feedbacks and have no problems listening to opposing ideas 
 > - 😄 Hobbies: I'm a pianist and music producer. Already tried to play string instruments but found myself on the keys.
+
 
 ## Stack
 
@@ -31,6 +33,7 @@
 ## Stats
 
 > [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmontini&exclude_repo=portfolio-tcb,bivar.github.io&show_icons=true&hide=html,teX&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Where to find me
 
