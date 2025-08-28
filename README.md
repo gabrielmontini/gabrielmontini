@@ -1,12 +1,12 @@
 # About Me
 
-> * 25 y/o
+> * 26 y/o
 > * FullStack Developer
 
 
 ## Experiences
 
-> - 📫 Bachelor in Information Systems at PUCPR
+> - 📫 Bachelors in Information Systems at PUCPR
 > - 💻 Working as an IT Business Analyst on Paybrokers, mainly focusing on regulated betting market
 > - 🖥️ I worked as a Front End Developer at Grupo Supernosso, working mainly with VtexIO. (ReactJS, GraphQL, Typescript)
 > - 💻 I was a Web Developer Intern at Domatech, half period maintaning e-commerces, landing pages and the other half developing Dashboards and Apps on ReactJs and React Native
